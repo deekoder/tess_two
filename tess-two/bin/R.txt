@@ -1,0 +1,6 @@
+int drawable cameraiconmd 0x7f020000
+int drawable ic_launcher 0x7f020001
+int id button1 0x7f040002
+int id button2 0x7f040000
+int id imageView1 0x7f040001
+int layout coverscreen 0x7f030000

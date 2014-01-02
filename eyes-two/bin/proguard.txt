@@ -1,0 +1,46 @@
+# view res/layout/blocking.xml #generated:24
+-keep class com.googlecode.eyesfree.ocr.intent.BlockingView { <init>(...); }
+
+# view AndroidManifest.xml #generated:108
+-keep class com.googlecode.eyesfree.ocr.intent.CheckOcrData { <init>(...); }
+
+# view AndroidManifest.xml #generated:50
+-keep class com.googlecode.eyesfree.ocr.intent.DetectActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:42
+-keep class com.googlecode.eyesfree.ocr.intent.LanguagesActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:80
+-keep class com.googlecode.eyesfree.ocr.intent.MixedRecognizeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:90
+-keep class com.googlecode.eyesfree.ocr.intent.OpticalFlowActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:30
+-keep class com.googlecode.eyesfree.ocr.intent.PrefsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:60
+-keep class com.googlecode.eyesfree.ocr.intent.RecognizeActivity { <init>(...); }
+
+# view res/layout/capture.xml #generated:25
+-keep class com.googlecode.eyesfree.ocr.intent.RectsView { <init>(...); }
+
+# view AndroidManifest.xml #generated:104
+-keep class com.googlecode.eyesfree.ocr.intent.TestActivity { <init>(...); }
+
+# view res/layout/recognize.xml #generated:26
+-keep class com.googlecode.eyesfree.ocr.intent.TextRectsView { <init>(...); }
+
+# view AndroidManifest.xml #generated:70
+-keep class com.googlecode.eyesfree.ocr.intent.UnveilRecognizeActivity { <init>(...); }
+
+# view res/layout/optical_flow.xml #generated:29
+-keep class com.googlecode.eyesfree.ocr.intent.VoiceGestureView { <init>(...); }
+
+# view AndroidManifest.xml #generated:23
+-keep class com.googlecode.eyesfree.ocr.service.OcrService { <init>(...); }
+
+# view res/layout/detect.xml #generated:25
+# view res/layout/optical_flow.xml #generated:25
+-keep class com.googlecode.eyesfree.opticflow.DebugView { <init>(...); }
+
